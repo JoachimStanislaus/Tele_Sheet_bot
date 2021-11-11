@@ -2,6 +2,9 @@
 
 This Bot is written in Python with pyTelegramBotAPI.
 
+An Example of the Google Sheet. You should follow this format for the code to work. Ideally just make a copy of this Google Sheet.
+https://docs.google.com/spreadsheets/d/1mE0O-fxkrgoQ2FTlSNbO1CPgEU0-VWbdz9QOQKA1OmU/edit#gid=0
+
 ## Installation
 
 First of all, you need to install the pyTelegramBotAPI.
