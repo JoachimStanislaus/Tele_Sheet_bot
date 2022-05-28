@@ -61,4 +61,4 @@ python Tele_Sheet_bot.py
 This isn't recommend. Use something like screen to hold the Bot. screen -S SheetBot Then just retype the command and you are finished!
 
 ## Contributing
-please email me @ joachimtan00@gmail.com first to discuss what you would like to change.
+please email hello@joachimstanislaus.com first to discuss what you would like to change.
